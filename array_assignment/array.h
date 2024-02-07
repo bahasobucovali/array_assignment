@@ -7,5 +7,5 @@ private:
 	int boyut;
 public:
 	Array();
-	Array();
+	Array(int data,int boyut);
 };
